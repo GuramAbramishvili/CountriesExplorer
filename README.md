@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# CountriesExplorer
-=======
 # CountriesExplorer
 
 მარტივი Android აპლიკაცია, რომელიც აჩვენებს მსოფლიოს ქვეყნების სიას
@@ -48,4 +45,3 @@ Navigation 3 ჯერ კიდევ alpha ეტაპზეა და API �
 დამოკიდებულების ვერსია ვერ მოიძებნა, გადაამოწმეთ უახლესი ვერსია
 [developer.android.com/jetpack/androidx/releases/navigation3](https://developer.android.com/jetpack/androidx/releases/navigation3)
 გვერდზე და განაახლეთ `app/build.gradle.kts`-ში.
->>>>>>> a5436ff (Initial commit)
